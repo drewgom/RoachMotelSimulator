@@ -1,2 +1,2 @@
 # RoachMotelSimulator
-A program that simulates the activities that would occur in a hotel
+In this repository, I have included the instructions for the assignment. They are in the file `AssignmentInstructions.pdf`
